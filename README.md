@@ -1,1 +1,2 @@
-#git basics learnning
+# git basics learnning
+   im learnning only basics 
